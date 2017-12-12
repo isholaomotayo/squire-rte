@@ -1,7 +1,7 @@
 # squire-rte
 
 original sources:
-(https://neilj.github.io/Squire/)[https://neilj.github.io/Squire/]
+[https://neilj.github.io/Squire/](https://neilj.github.io/Squire/)
 
 ## What is Squire
 
